@@ -123,11 +123,6 @@ button {
 
 /* Images tab */
 
-.header3 {  
-
-    border: none;
-}
-
 .gallery-heading {
     font-size: 30px;
     font-family: 'Roboto', sans-serif;
@@ -141,17 +136,15 @@ button {
     justify-content: center;
     align-items: center;
     flex-wrap: wrap;
-
 }
 
 .box-img {
-    margin: 2%;
+    margin: 2% 20px 6% 0px;
 }
 
 /* quotes */
 
 .header4 {
-    margin-top: 5%;
     display: flex;
     background: rgba(160, 154, 154, 0.511);
 }
@@ -180,8 +173,8 @@ button {
     background-color: #26303d;
     border-radius: 5px;
     margin: auto;
-    margin-top: 10%;
-    margin-bottom: 10%;
+    margin-top: 5%;
+    margin-bottom: 5%;
     align-items: center;
     padding-top: 2%;
     width: 80%;
