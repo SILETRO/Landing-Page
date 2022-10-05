@@ -123,6 +123,10 @@ button {
 
 /* Images tab */
 
+img {
+    width: 300px;
+    height: 300px;
+}
 .gallery-heading {
     font-size: 20px;
     font-family: 'Roboto', sans-serif;
